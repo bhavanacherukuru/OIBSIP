@@ -1,0 +1,50 @@
+.main{
+    background-color: black;
+    height: 200vh;
+    text-align: center;
+    background-size: cover;
+    
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+.description{
+    text-align: center;
+    color: white;
+}
+.top-description{
+    background-color: white;
+    margin: 40px;
+    margin-left: 120px ;
+    margin-right: 120px;
+
+}
+.para{
+    color: black;
+    font-size: 32px;
+}
+.card{
+    background-color: black;
+    border: white;
+    margin-top: 0px;
+    margin-left: 120px ;
+    margin-right: 120px;
+    color: white;
+}
+.bottom-class{
+    background-color: black;
+    margin-top: 0px;
+   
+}
+.bottom-head{
+    text-align: center;
+}
+.bottom-para{
+    margin: 40px;
+    margin-left: 120px ;
+    margin-right: 120px;
+}
+.end-para{
+    text-decoration: overline;
+}
